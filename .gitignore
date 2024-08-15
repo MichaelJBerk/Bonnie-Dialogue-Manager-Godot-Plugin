@@ -19,3 +19,6 @@ mono_crash.*.json
 /.godot/
 addons/Bonnie.zip
 .vscode/settings.json
+
+#ignore macOS .DS_Store
+.DS_Store
